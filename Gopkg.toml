@@ -74,7 +74,7 @@
   version = "3.1.0"
 
 [[constraint]]
-  name = "github.com/spotxchange/fosite"
+  name = "github.com/PiotrMag7/fosite"
   branch = "token_migration"
 
 [[constraint]]
