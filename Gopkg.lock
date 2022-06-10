@@ -483,7 +483,7 @@
     "token/hmac",
     "token/jwt"
   ]
-  revision = "ca4ef66fc6c73008bce5dda4331e35dea931eb1f"
+  revision = "356797d408c9da7fceebf0c83f7bd5e66ad6bc12"
 
 [[projects]]
   name = "github.com/stretchr/testify"
